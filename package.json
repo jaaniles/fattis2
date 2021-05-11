@@ -8,7 +8,7 @@
     "facepaint": "^1.2.1",
     "firebase": "^7.6.1",
     "framer-motion": "^1.6.15",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "luxon": "^1.21.3",
     "polished": "^3.4.2",
     "react": "^16.12.0",
